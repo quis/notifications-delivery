@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This application is no longer used and is left here for posterity only.
+
 [![Build Status](https://api.travis-ci.org/alphagov/notifications-delivery.svg?branch=master)](https://api.travis-ci.org/alphagov/notifications-delivery.svg?branch=master)
 
 # notifications-delivery
